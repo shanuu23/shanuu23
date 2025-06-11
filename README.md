@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-### 👋 Hey there, welcome to my GitHub!
-
 I'm an aspiring **Data Scientist / Machine Learning Engineer** with a strong foundation in mathematics, programming, and a deep curiosity for how machines learn and make decisions.
 
 #### 🧠 What I Know
