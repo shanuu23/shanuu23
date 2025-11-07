@@ -3,8 +3,8 @@
 I'm an aspiring **Data Scientist** with a strong foundation in mathematics, programming, and a deep curiosity for Machine and Deep Learning.
 
 #### What I Know
-- **Languages & Tools**: Python, SQL, PyTorch  
-- **Core Concepts**: Linear Algebra, Calculus, Statistics, Machine Learning  
+- **Languages & Libraries**: Python, SQL, Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, PyTorch
+- **Core Concepts**: Linear Algebra, Calculus, Statistics, Machine Learning, Deep Learning  
 -  Currently building and exploring projects in applied ML and data analytics
 
 ####  What I’m Looking For
