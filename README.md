@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an aspiring **Data Scientist / Machine Learning Engineer** with a strong foundation in mathematics, programming, and a deep curiosity for how machines learn and make decisions.
+I'm an aspiring **Data Scientist** with a strong foundation in mathematics, programming, and a deep curiosity for Machine and Deep Learning.
 
 #### What I Know
 - **Languages & Tools**: Python, SQL, PyTorch  
@@ -8,7 +8,7 @@ I'm an aspiring **Data Scientist / Machine Learning Engineer** with a strong fou
 -  Currently building and exploring projects in applied ML and data analytics
 
 ####  What I’m Looking For
-- **Internship opportunities** in Data Science or ML Engineering  
+- **Internship opportunities** in Data Science
 -  Eager to **learn**, grow, and collaborate with innovative minds  
 
 ####  A Little Bit About Me
