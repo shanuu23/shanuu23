@@ -1,22 +1,31 @@
-# About Me:
-I'm an aspiring Data Scientist with a strong foundation in mathematics, programming, and a deep curiosity for Machine and Deep Learning.<br><br>
+# 💫 About Me:
+<p>I'm an aspiring Data Scientist with a strong foundation in mathematics, programming, and a deep curiosity for Machine and Deep Learning.</p>
 
-What I Know<br><br>
-1) Languages & Libraries: Python, SQL, Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, PyTorch<br>
-2) Core Concepts: Linear Algebra, Calculus, Statistics, Machine Learning, Deep Learning<br>
-3) Currently building and exploring projects in applied ML and data analytics<br><br>
+<p><strong>What I Know</strong>
+<ul style="margin:4px 0 8px 18px;padding:0;">
+  <li>Languages & Libraries: Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, PyTorch</li>
+  <li>Core Concepts: Linear Algebra, Calculus, Statistics, Machine Learning, Deep Learning</li>
+  <li>Currently building projects in applied ML and data analytics</li>
+</ul>
+</p>
 
-What I’m Looking For<br><br>
-1) Internship opportunities in Data Science<br>
-3) Eager to learn, grow, and collaborate with innovative minds<br><br>
+<p><strong>What I’m Looking For</strong>
+<ul style="margin:4px 0 8px 18px;padding:0;">
+  <li>Internship opportunities in Data Science</li>
+  <li>Eager to learn, grow, and collaborate</li>
+</ul>
+</p>
 
-A Little Bit About Me<br><br>
-1) Caffeine fuels my code<br>
-2) Big fan of all things sports, particularly cricket and football<br>
-3) Occasionally caught wondering about the meaning of life and the nature of reality<br>
-4) Forever curious and always experimenting<br>
+<p><strong>A Little Bit About Me</strong>
+<ul style="margin:4px 0 8px 18px;padding:0;">
+  <li>Caffeine fuels my code</li>
+  <li>Big fan of cricket and football</li>
+  <li>Occasionally pondering the meaning of life</li>
+  <li>Forever curious and experimenting</li>
+</ul>
+</p>
 
-📫 Let’s connect!<br>If you're working on something cool or think we can collaborate, feel free to reach out.
+<p>📫 Let’s connect — if you're working on something cool or think we can collaborate, feel free to reach out.</p>
 
 
 
@@ -30,13 +39,10 @@ A Little Bit About Me<br><br>
 ![](https://nirzak-streak-stats.vercel.app/?user=shanuu23&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shanuu23&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shanuu23&theme=default&no-frame=true&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shanuu23&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shanuu23&icon=1&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=shanuu23&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
