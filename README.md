@@ -1,4 +1,4 @@
-# Hi, I am Shanu:
+# Hi, I am Shanu
 <p>I'm an aspiring Data Scientist with a strong foundation in mathematics, programming, and a deep curiosity for Machine and Deep Learning.</p>
 
 <p><strong>What I Know</strong>
